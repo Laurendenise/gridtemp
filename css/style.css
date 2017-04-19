@@ -1,0 +1,26 @@
+body {
+  background-color: yellow;
+}
+.container-fluid div {
+  border: 1px solid #333;
+}
+.header {
+    background: blue;
+    min-height: 15vh;
+}
+
+.nav {
+    background: green;
+    min-height: 6vh;
+}
+
+.content {
+  background: red;
+  min-height: 20vh;
+}
+
+.aside {
+  background: cyan;
+    min-height: 20vh;
+
+}
