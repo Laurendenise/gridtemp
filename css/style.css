@@ -6,21 +6,33 @@ body {
 }
 .header {
     background: blue;
-    min-height: 15vh;
+    min-height: 20vh;
 }
 
 .nav {
     background: green;
-    min-height: 6vh;
+    min-height: 8vh;
 }
 
 .content {
   background: red;
-  min-height: 20vh;
+  min-height: 25vh;
 }
 
 .aside {
   background: cyan;
-    min-height: 20vh;
+    min-height: 25vh;
+}
 
+.container-promo {
+  background: orange;
+}
+
+.container-promo .col-sm-3 {
+    min-height: 10vh;
+}
+
+.footer {
+  background: black;
+  min-height: 10vh;
 }
